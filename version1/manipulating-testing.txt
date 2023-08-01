@@ -1,0 +1,101 @@
+Test case 1 : 
+Type the 1st string (q - to quit):
+123
+Type the 2nd string:
+456
+Concatenated string is '123456'
+
+Test case 2 : 
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+QbaKozj6CjkH1ATLPQ6rglly9riWzt3nRbrCrrmN5DfMxC8PhwgZSn5vDKdkMPDvBzM2fOJ2lBZum8YbINYUGGlALWwJGGlhK5VQoJ2Xadht4K7hxwb8ChkIbSHdITCdsdHLXm3LL9lwCsWICIb19TNwjrCPwervA43DOAD7KMlnu5lPnWJ4ca9ua4vTUgQ8EwQAKHcg
+Type the 2nd string:
+Concatenated string is 'QbaKozj6CjkH1ATLPQ6rglly9riWzt3nRbrCrrmN5DfMxC8PhwgZSn5vDKdkMPDvBzM2fOJ2lBZum8YbINYUGGlALWwJGGlhK5QoJ2Xadht4K7hxwb8ChkIbSHdITCdsdHLXm3LL9lwCsWICIb19TNwjrCPwervA43DOAD7KMlnu5lPnWJ4ca9ua4vTUgQ8EwQAK'
+Type the 1st string (q - to quit):
+Type the 2nd string:
+
+Test case 3: 
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+!@#$%^&*()
+Concatenated string is 'Hello!@#$%^&*()'
+
+Test case 4: 
+Type the 1st string (q - to quit):
+hello
+Type the 2nd string:
+         world
+Concatenated string is 'hello             world'
+
+Test case 5 : 
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+Test Case 6: 
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+@@@
+Type the 2nd string:
+###
+Concatenated string is '@@@###'
+
+Test case 7:
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+Test case 8:
+Type the 1st string (q - to quit):
+aa
+Type the 2nd string:
+bb
+Concatenated string is 'aabb'
+
+Test case 9: 
+Type the 1st string (q - to quit):
+5cCQF09NJ27HIZmeU3uKvOSlTsafD4W4042ZsXNaDRwOqpNazoMYS4LfzN6Eh7qE7nrCI5OJ6CIMfaAeW3MEkg3hDiDzslR1sm3KR
+Type the 2nd string:
+Concatenated string is '5cCQF09NJ27HIZmeU3uKvOSlTsafD4W4042ZsXNaDRwOqpNazoMYS4LfzN6Eh7qE7nrCI5OJ6CIMfaAeW3MEkg3hDiDzslR1smKR'
+Type the 1st string (q - to quit):
+5cCQF09NJ27HIZmeU3uKvOSlTsafD4W4042ZsXNaDRwOqpNazoMYS4LfzN6Eh7qE7nrCI5OJ6CIMfaAeW3MEkg3hDiDzslR1sm3KR
+Type the 2nd string:
+Concatenated string is '5cCQF09NJ27HIZmeU3uKvOSlTsafD4W4042ZsXNaDRwOqpNazoMYS4LfzN6Eh7qE7nrCI5OJ6CIMfaAeW3MEkg3hDiDzslR1smKR'
+ 
+ 
+Test case 10:
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+a
+Type the 2nd string:
+b
+Concatenated string is 'ab'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+Test case 11: 
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+ZyBk27e3yEyMQ0WvL8t6KIJauYhrPmWuyRC2bnNKDcr1ZaScWM7VXZKeSl2u20yTgo0CkBtmuRcJSFdxqTW6r5Kr0hFY5imsxLl0
+Type the 2nd string:
+Concatenated string is 'ZyBk27e3yEyMQ0WvL8t6KIJauYhrPmWuyRC2bnNKDcr1ZaScWM7VXZKeSl2u20yTgo0CkBtmuRcJSFdxqTW6r5Kr0hFY5imsxL0'
+Type the 1st string (q - to quit):
+
+Test case 12: 
+Type the 1st string (q - to quit):
+Q
+Type the 2nd string:
+q
+Concatenated string is 'Qq' 
+
+Test case 13: 
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+
+Concatenated string is ''
