@@ -1,14 +1,6 @@
-
-//Safeguarding the header file
-#ifndef _MANIPULATING_H
-#define _MANIPULATING_H
-
-//including the header files
+#ifndef _MANIPULATING_H_
+#define _MANIPULATING_H_
 #include <stdio.h>
 #include <string.h>
-#define BUFFER_SIZE 100
-
-//function prototype is declared
-void manipulating();
-
+void manipulating(void);
 #endif

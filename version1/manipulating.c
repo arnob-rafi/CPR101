@@ -1,7 +1,9 @@
-
+#define _CRT_SECURE_NO_WARNINGS
+#define BUFFER_SIZE 80
 #include "manipulating.h"
 
 
+//V1
 void manipulating(void) {
     printf("*** Start of Concatenating Strings Demo ***\n");
 
