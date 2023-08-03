@@ -99,3 +99,20 @@ Type the 1st string (q - to quit):
 Type the 2nd string:
 
 Concatenated string is ''
+
+Test case 14: 
+Type the 1st string (q - to quit):
+hello 
+Type the 2nd string:
+world
+Concatenated string is 'helloworld' 
+
+
+Test case 15: 
+Type the 1st string (q - to quit):
+0123456789
+Type the 2nd string:
+abcdefghijklmnopqrstuvwxwyz
+Concatenated string is '0123456789abcdefghijklmnopqrstuvwxwyz' 
+
+
